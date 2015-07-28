@@ -1,0 +1,5 @@
+__DIR__: Array
+ File Name: A3.jpg
+ Data: Array
+0, Œ (340x420)
+Array
